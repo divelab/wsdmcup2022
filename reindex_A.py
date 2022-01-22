@@ -1,6 +1,6 @@
 import pandas as pd
 
-data_path = '/data/kruskallin/tlp'
+data_path = ''
 
 node_feat_csv = pd.read_csv(data_path + '/node_features.csv', header=None,
                             names=['idx', 'f1', 'f2', 'f3', 'f4', 'f5', 'f6', 'f7', 'f8'])
