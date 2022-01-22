@@ -5,17 +5,7 @@ DIVE@TAMU Solution for WSDM2022
 
 ## Requirement
 
-numpy == 1.21.2
-
-pandas == 1.3.5
-
-torch == 1.10.1
-
-torchaudio == 0.10.1
-
-torchvision == 0.11.2
-
-tqdm == 4.62.3
+`pip install -r requirements.txt`
 
 
 
@@ -27,7 +17,7 @@ We provide two shell files: `runA.sh` and `runB.sh`, and to run experiment on da
 
 
 
-## Testing Results in Intermediate testing dataset 
+## Testing Results in Intermediate Testing Dataset 
 
 |      | A    | B    |
 | ---- | ---- | ---- |
