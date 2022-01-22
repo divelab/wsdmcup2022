@@ -1,0 +1,1 @@
+python train_wsdm.py --dataset_name B --bs 1000 --train_node_embedding --dim_node_embedding 90 --lr 0.00001 --time_dim 50 --prefix B
